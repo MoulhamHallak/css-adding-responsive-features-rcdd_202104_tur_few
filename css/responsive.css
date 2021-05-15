@@ -53,6 +53,11 @@
     float: none;
   }
   
-  .border-right { border: 0; }
-  #details div { height: auto; }
+  .border-right {
+    border: 0;
+  }
+  
+  #details div {
+    height: auto;
+  }
 }
